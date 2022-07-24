@@ -14,11 +14,10 @@ The purpose is to conduct an election audit of a recent local congressional elec
 
 ### 4. The total number of votes each candidate won
 
-#### 5. The winner of the election based on popular vote
+### 5. The winner of the election based on popular vote
 
 ## Election Audit Results
 
-Summarized election results:
 Election Results: (https://github.com/AbagailKaitlin/election-analysis/blob/main/analysis/election_results.png)
 
 Total votes in the congressional election: 369,711
